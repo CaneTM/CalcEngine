@@ -14,10 +14,10 @@ Credits - Jim Wilson (@hedgehogjim; jwhh.com)
 
 **Valid opCodes:**
 
-- a (add)
-- s (subtract)
-- m (multiply)
-- d (divide)
+- ```a``` (add)
+- ```s``` (subtract)
+- ```m``` (multiply)
+- ```d``` (divide)
 
 ```java com.pluralsight.calcengine.Main```
 
